@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='mail_split'>
+	<inherits name="com.google.gwt.http.HTTP" />
+	<inherits name='com.google.gwt.user.User' /><!--
+	<inherits name="com.google.gwt.http.HTTP" />
+<inherits name='com.extjs.gxt.themes.Themes' />
+ 
+  -->
+  <inherits name='com.extjs.gxt.themes.Themes' />
+  <entry-point class='com.extjs.gxt.samples.mail.client.Mail'/>
+  <inherits name='com.extjs.gxt.ui.GXT'/>
+  
+</module>
